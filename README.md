@@ -1,0 +1,1 @@
+# slackstatus-launcher
